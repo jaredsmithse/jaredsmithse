@@ -1,3 +1,5 @@
+![image title](https://matomo.netstitch.se/matomo.php?idsite=3&amp;rec=1&amp;action_name=Profile)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on banking at Chime
