@@ -1,5 +1,7 @@
-[![Jared Smith's github stats](https://github-readme-stats.vercel.app/api?username=jaredsmithse&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaredsmithse&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
+ <h2 align="center">Profile</h2>
+</p>
 
 ### Hi there 👋 ![image title](https://matomo.netstitch.se/matomo.php?idsite=3&amp;rec=1&amp;action_name=Profile)
 
@@ -9,3 +11,19 @@
 - 🤔 I’m looking for help with Crystal library ideas!
 - 💬 Ask me about software or real estate
 - 📫 How to reach me: contact@jaredsmith.se
+
+## Stats
+<p align="center">
+  <img 
+    alt="Jared Smith's github stats" 
+    src="https://github-readme-stats.vercel.app/api?username=jaredsmithse&count_private=true&show_icons=true" 
+    align="left" 
+  />
+
+  <img 
+    alt="Top Langs" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaredsmithse&layout=compact" 
+    align="right" 
+    style="vertical-align: bottom; padding-top: 20px" 
+   />
+</p>
