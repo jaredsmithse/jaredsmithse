@@ -18,7 +18,7 @@
     alt="Jared Smith's github stats" 
     src="https://github-readme-stats.vercel.app/api?username=jaredsmithse&count_private=true&show_icons=true" 
     align="left" 
-    width="45%"
+    width="50%"
   />
 
   <img 
