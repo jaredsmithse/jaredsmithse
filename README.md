@@ -24,6 +24,5 @@
     alt="Top Langs" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaredsmithse&layout=compact" 
     align="right" 
-    style="vertical-align: middle; padding-top: 20px" 
    />
 </p>
