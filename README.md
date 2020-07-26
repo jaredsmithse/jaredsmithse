@@ -1,9 +1,9 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
- <h2 align="center">Profile</h2>
+ <img width="100px" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" align="center" alt="Github Readme Stats" />
+ <h2 align="center">Hi there 👋</h2>
 </p>
 
-### Hi there 👋 ![image title](https://matomo.netstitch.se/matomo.php?idsite=3&amp;rec=1&amp;action_name=Profile)
+![image title](https://matomo.netstitch.se/matomo.php?idsite=3&amp;rec=1&amp;action_name=Profile)
 
 - 🔭 I’m currently working on banking at Chime
 - 🌱 I’m currently learning Crystal
@@ -12,7 +12,11 @@
 - 💬 Ask me about software or real estate
 - 📫 How to reach me: contact@jaredsmith.se
 
-## Stats
+<p align="center">
+  <img src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" />
+  <h2 align="center">Stats</h2>
+</p>
+
 <p align="center">
   <img 
     alt="Jared Smith's github stats" 
