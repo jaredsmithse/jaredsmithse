@@ -1,3 +1,6 @@
+[![Jared Smith's github stats](https://github-readme-stats.vercel.app/api?username=jaredsmithse&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaredsmithse&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Hi there 👋 ![image title](https://matomo.netstitch.se/matomo.php?idsite=3&amp;rec=1&amp;action_name=Profile)
 
 - 🔭 I’m currently working on banking at Chime
@@ -6,9 +9,3 @@
 - 🤔 I’m looking for help with Crystal library ideas!
 - 💬 Ask me about software or real estate
 - 📫 How to reach me: contact@jaredsmith.se
-
-## My Values
-
-## How I Work
-I generally tend to lean towards agile methodology, but am not afraid to follow a more waterfall approach when a team has over-hired more junior members that would like additional structure in the process (if the team is not bought into pair programming.
-
