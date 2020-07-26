@@ -18,12 +18,13 @@
     alt="Jared Smith's github stats" 
     src="https://github-readme-stats.vercel.app/api?username=jaredsmithse&count_private=true&show_icons=true" 
     align="left" 
+    width="50%"
   />
 
   <img 
     alt="Top Langs" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaredsmithse&layout=compact" 
     align="right" 
-    style="padding-top: 20px"
+    width="50%"
    />
 </p>
