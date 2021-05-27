@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on code or real estate
 - 🤔 I’m looking for help with Crystal library ideas!
 - 💬 Ask me about software or real estate
-- 📫 How to reach me: contact@jaredsmith.se 
+
 <h3>Social:</h3> <a href="https://linkedin.com/in/jaredsmithse" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jaredsmithse" height="30" width="30" /></a> <a href="https://stackoverflow.com/users/jaredsmithse" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="jaredsmithse" height="30" width="30" /></a>
 
 
