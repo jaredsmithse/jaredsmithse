@@ -3,14 +3,14 @@
  <h2 align="center">Hi there 👋, I'm Jared Smith
   
  </h2>
- <h3 align="center">A passionate system-builder and problem(s) solver</h3>
+ <h3 align="center">A passionate system-builder and problem solver</h3>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaredsmithse" alt="jaredsmithse" /> </p>
 
-- 🔭 I’m currently working on the SpotMe team at Chime
+- 🔭 I’m currently working on the MyPay team at Chime
 - 🌱 I’m currently learning Crystal
-- 👯 I’m looking to collaborate on code or real estate
+- 👯 I’m looking to collaborate on Ruby, Crystal, LLMs
 - 🤔 I’m looking for help with Crystal library ideas!
 - 💬 Ask me about software or real estate
 
