@@ -8,10 +8,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaredsmithse" alt="jaredsmithse" /> </p>
 
-- 🔭 I’m currently working on the MyPay team at Chime
-- 🌱 I’m currently learning Crystal
-- 👯 I’m looking to collaborate on Ruby, Crystal, LLMs
-- 🤔 I’m looking for help with Crystal library ideas!
+- 🔭 I’m currently working on the Engineering team at Niva
+- 🌱 I’m currently learning about LLM and data meshes
+- 👯 I’m looking to collaborate on LLMs in Ruby (or anything Ruby)
+- 🤔 I’m looking for help not using Python for LLMs
 - 💬 Ask me about software or real estate
 
 <h3>Social:</h3> <a href="https://linkedin.com/in/jaredsmithse" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jaredsmithse" height="30" width="30" /></a> <a href="https://stackoverflow.com/users/jaredsmithse" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="jaredsmithse" height="30" width="30" /></a>
