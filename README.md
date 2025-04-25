@@ -1,6 +1,6 @@
 <p align="center">
  <img width="100px" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" align="center" alt="Github Readme Stats" />
- <h2 align="center">Hi there 👋, I'm Jared Smith
+ <h2 align="center">Hi there 👋, I'm Jared
   
  </h2>
  <h3 align="center">A passionate system-builder and problem solver</h3>
@@ -14,7 +14,12 @@
 - 🤔 I’m looking for help not using Python for LLMs
 - 💬 Ask me about software or real estate
 
-<h3>Social:</h3> <a href="https://linkedin.com/in/jaredsmithse" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jaredsmithse" height="30" width="30" /></a> <a href="https://stackoverflow.com/users/jaredsmithse" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="jaredsmithse" height="30" width="30" /></a>
+<h3>Social:</h3> 
+<a href="https://linkedin.com/in/jaredsmithse" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jaredsmithse" height="30" width="30" /></a> 
+<a href="https://stackoverflow.com/users/jaredsmithse" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="jaredsmithse" height="30" width="30" /></a>
+<a href="https://ruby.social/@jaredsmithse" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mastodon.svg" alt="jaredsmithse" height="30" width="30" /></a>
+<a href="https://bsky.app/profile/jaredsmithse.bsky.social" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@14/icons/bluesky.svg" alt="jaredsmithse" height="30" width="30" /></a>
+<a href="https://discordapp.com/users/jaredsmithse#6984" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@14/icons/discord.svg" alt="jaredsmithse" height="30" width="30" /></a>
 
 
 
